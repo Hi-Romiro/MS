@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Микросервисы с Keycloak и Spring Security
 
 Задание базировано и дополнено на основе видео: https://www.youtube.com/watch?v=YHWfJHKGYGI
@@ -64,3 +65,6 @@
 3) Проведите аутенфикацию через Сваггер. Client Secret нужно вставить от **backend-gateway-client** ![Аутенфикация через Сваггер.png](images/Аутенфикация%20через%20Сваггер.png)
 4) Обратитесь на API _hello_ через сваггер: **Try it out -> Execute**. ![swagger-hello.png](images/swagger-hello.png)
 
+=======
+# MS
+>>>>>>> github/task4.1
