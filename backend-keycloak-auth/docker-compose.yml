@@ -9,7 +9,7 @@ services:
       POSTGRES_PASSWORD: my_password
       POSTGRES_DB: keycloak_db
     ports:
-      - "5432:5432"
+      - "5434:5434"
     volumes:
       - db_data:/var/lib/postgresql/data
   kc:
